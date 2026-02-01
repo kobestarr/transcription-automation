@@ -1,0 +1,180 @@
+{
+  "success": true,
+  "data": {
+    "id": "7423810313264386048",
+    "filename": "Copy This Reddit Strategy, It'll Blow Up Your Business",
+    "status": "completed",
+    "duration": 542.0,
+    "language_code": "en",
+    "transcription_type": "transcript",
+    "created_at": "2026-02-01T19:31:46.000Z",
+    "completed_at": "2026-02-01T19:32:31.000Z",
+    "file_size": 8679788,
+    "source_type": "youtube",
+    "source_url": "https://youtu.be/4-O4_nDh6hI",
+    "result": {
+      "text": "Hardly anyone knows about this Reddit strategy, but if you copy it, it will help you dominate both traditional SEO  and ai search this is one of the most unique and effective ways to get customers from organic search and it works in virtually any industry for any business and this is the exact same strategy i'm using now for 10 plus b2b companies to pull in hundreds of engagements per post and not just show up in google but also consistently show up in ai results like for this b2b sas company who's getting nearly 10 000 monthly sessions from llms which is adding over 30 000 in net new mrr every single month  Or this B2B SaaS company who's controlling the narrative for their money keywords in ICP rich subreddits. So let me pull up my screen and I'll take you through step by step how you can implement this for your own business. So you can just copy me. All right. So before we get into the step by step playbook, let's be clear on why Reddit and why now? Because the opportunity here is not what most marketers think it is. There has never been a better time to get on Reddit. And that's for two very specific reasons.  and open AI so what this means is reddit content is being directly fed into the systems that power both traditional and AI search now second because of this reddit is consistently one of the top cited sources in AI answers we personally analyzed over 140,000 AI citations and what we found is that reddit content occupies around 27% of chat GPT search slots  during what's called the query fanout. And so this is where the AI models break down a user's questions into multiple subqueries to gather comprehensive information. And so Reddit is playing a key part in influencing that process. And so this gives Reddit a triple threat. Number one, you can rank in the traditional Google SERP. Number two, you can dramatically improve your visibility in AI answers. And number three, you can generate direct high intent leads from the content you post on there. So let me walk you through the exact strategy we use step by step so you can just copy it. All right.  So first things first, your account set up. This is where most people go wrong before they even start because they treat Reddit like any other social platform, which it's not. Reddit is a trust economy and you have to earn your place. Otherwise, you're going to get banned. In my personal opinion, you need to operate from a personal account, not a branded corporate one. Reddit hates corporate shills. Users trust people, not company logos. So you want to post from the point of view from either a founder or an employee at your company. And so add a real profile picture.  write a bio on your profile that establishes your credibility without getting too salesy. But there is another layer to this. You need to build what I call an account infrastructure. Just think about how modern cold email platforms warm up fresh domains to build sender reputation before you can scale your outreach. You need to do the exact same thing on Reddit. So this means building up your karma, which is Reddit's internal reputation score, by providing genuine value and engaging naturally with other content before you think about plugging your stuff. And just being honest with you,  companies that are truly winning on reddit  are not just using one account they're building a portfolio of accounts similar to how cold emailers use secondary domains to scale their volume horizontally this allows them to increase their share of voice across multiple accounts rather than only relying on a single account which gives them an advantage the key thing to understand about karma is that fresh accounts with no engagement history get flagged and banned at much higher rates so you need to actually invest time in building that engagement history by commenting on posts  upvoting other content and participating in discussions. This is really the foundation that makes everything else work downstream. Now once your accounts are set up and warmed up you need to find where your ideal customers are hanging out and also what threads are being cited by LLMs like ChatGPT. This is about building what I call your subreddit map. So each subreddit is essentially a micro community on reddit that has its own rules, culture and moderation policies. Now  Some of these subreddits allow promotional content, but honestly, most don't. And some require very specific post formats. Otherwise, your post is going to be automatically removed. So your job is to identify and map these communities where your ICP is actively discussing problems you solve. Now, there are a few ways to do this effectively. First, put your core category prompts into chat GPT or perplexity and look at which Reddit threads are being cited as sources. This is going to tell you the subreddits that the AI already trusts for your topic.  Reddit is being cited in AI Answers. That's where you want to be visible. Second, old school method. You can just search your money keywords in Google and filter your results to forums or use a search operator to filter to the Reddit domain and include your target keywords. This is going to show you the threads which are already ranking for high intent queries in your category. And third, we've built a free Reddit threads finder tool which I'll link below that test prompts related to your category in LLMs and identifies the Reddit threads that are actually being cited  all prioritized by relevancy. So your goal here is to build a list of primary subreddits where your ICP is highly active and secondary subreddits that are adjacent to your niche. This map is where you will try to build authority and become visible to both  humans who are searching Google and LLMs that are crawling Reddit. Now we've got our accounts set up and you know where to post. The final piece is what you actually say. This is where most marketers get it wrong. Your content strategy on Reddit needs to follow a simple rule. 90% education, 10% promotion. You must lead with value. Reddit users can smell marketing from a mile away and they will destroy you in the comments if you come across as promotional or your content will just get banned. Now there are a few posts that have worked exceptionally well for our clients. So we have guides which is  here's how to do x these work for solution aware audiences who are actively searching for how to content we then have problem solution posts so this is like i'm struggling with x and here's what i tried this is going to resonate with problem aware audiences who are earlier in the journey but will allow you to cast a wider net we then have listicles these are one of my favorites this is the best tools for x  so this targets solution and product aware audiences who are actively comparing solutions and so this content type typically targets those with commercial intent and then finally we have ask me anything posts these can be done in various different angles for example i achieved this result ask me anything or i have done this thing ask me anything this is a powerful way to build authority and really spark discussion in these subreddits that you care about now the key here is the art of subtle promotion you provide immense value  And then you use a subtle bridge to your solution, which is going to be your product or service. Try to avoid dropping links if you can, because they trigger auto moderation rules and your post will likely get removed. The goal here is to create answer ready content that is genuinely helpful on its own. And the reader doesn't need to click anywhere. Now, this is more of an advanced concept, but it's critical for AI visibility. Think about your competitors, your integration partners, your category phases, your money terms, product features and your USPs.  participate in discussions about these entities you're essentially helping these LLMs build a knowledge graph that connects your brand to them so they know when to recommend you. To give you a very specific example if you're a project management tool then you should be in threads comparing Asana and Monday providing valuable insights about the nuanced differences and this is going to help AI understand your relationship to these companies as well as when and why your solution is relevant which is going to make it more likely to cite you in future.  Now, before we wrap up here, I want to address the single biggest mistake I see companies make on Reddit. They think Reddit is only for lead generation. They measure success by how many clicks or how many DMs they've received. And when those numbers are small, they just give up. But here's the thing. The real value of Reddit is being present in the places that large language models or LLMs trust. AI models operate on a principle of cross-source cooperation. So really what they're doing is they're verifying information by  check-in if those same facts appear across independent trusted sources and your website is really only one of those sources what's said about you on places like reddit g2 and other industry forums carries immense weight in fact i'd probably argue that your website represents maybe 20 of your ai search opportunity the other 80 is going to be your off-page presence and reddit is one of the most important pieces of that so when you're doing this and you're building your reddit presence you're not just trying to reach  redditors you're building the trusted third-party cooperation signals that are going to get you cited and ultimately recommended by these ai models you're increasing your share of voice in the places that matter most and that's the shift you need to stop thinking about reddit as just another traffic channel and start thinking about it as a critical piece in your ai visibility strategy that is going to influence these llms i probably don't have to tell you this but things are changing very quickly and if you want to make sure you're not wasting time on things that probably don't work anymore  then click here to watch the next video where I break down all the ways that SEO is going to change this year so you do know where to spend your time and money on and you know exactly what to avoid as well. I'll see you over there.",
+      "summary": "The text outlines a Reddit strategy that helps businesses dominate traditional SEO and AI search by leveraging Reddit's role as a trusted source for AI models like ChatGPT. It stresses the importance of using personal accounts to build karma through genuine engagement, identifying subreddits where target customers are active, and posting mostly educational content with subtle promotion. Reddit content significantly influences AI search results, occupying around 27% of AI citations. The strategy includes participating in discussions about competitors and related topics to build AI knowledge graphs linking the brand to relevant terms. The author warns against treating Reddit solely as a lead generation channel, emphasizing its broader role in building off-page SEO and AI visibility. Finally, the text encourages learning about upcoming SEO changes to stay effective in digital marketing.",
+      "outline": null,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 5.599999904632568,
+          "text": " Hardly anyone knows about this Reddit strategy, but if you copy it, it will help you dominate both traditional SEO",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 5.599999904632568,
+          "end": 34.895999908447266,
+          "text": " and ai search this is one of the most unique and effective ways to get customers from organic search and it works in virtually any industry for any business and this is the exact same strategy i'm using now for 10 plus b2b companies to pull in hundreds of engagements per post and not just show up in google but also consistently show up in ai results like for this b2b sas company who's getting nearly 10 000 monthly sessions from llms which is adding over 30 000 in net new mrr every single month",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 34.895999908447266,
+          "end": 64.11199951171875,
+          "text": " Or this B2B SaaS company who's controlling the narrative for their money keywords in ICP rich subreddits. So let me pull up my screen and I'll take you through step by step how you can implement this for your own business. So you can just copy me. All right. So before we get into the step by step playbook, let's be clear on why Reddit and why now? Because the opportunity here is not what most marketers think it is. There has never been a better time to get on Reddit. And that's for two very specific reasons.",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 64.11199951171875,
+          "end": 88.2239990234375,
+          "text": " and open AI so what this means is reddit content is being directly fed into the systems that power both traditional and AI search now second because of this reddit is consistently one of the top cited sources in AI answers we personally analyzed over 140,000 AI citations and what we found is that reddit content occupies around 27% of chat GPT search slots",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 88.2239990234375,
+          "end": 117.5199966430664,
+          "text": " during what's called the query fanout. And so this is where the AI models break down a user's questions into multiple subqueries to gather comprehensive information. And so Reddit is playing a key part in influencing that process. And so this gives Reddit a triple threat. Number one, you can rank in the traditional Google SERP. Number two, you can dramatically improve your visibility in AI answers. And number three, you can generate direct high intent leads from the content you post on there. So let me walk you through the exact strategy we use step by step so you can just copy it. All right.",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 117.5199966430664,
+          "end": 146.73599243164062,
+          "text": " So first things first, your account set up. This is where most people go wrong before they even start because they treat Reddit like any other social platform, which it's not. Reddit is a trust economy and you have to earn your place. Otherwise, you're going to get banned. In my personal opinion, you need to operate from a personal account, not a branded corporate one. Reddit hates corporate shills. Users trust people, not company logos. So you want to post from the point of view from either a founder or an employee at your company. And so add a real profile picture.",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 146.73599243164062,
+          "end": 175.95199584960938,
+          "text": " write a bio on your profile that establishes your credibility without getting too salesy. But there is another layer to this. You need to build what I call an account infrastructure. Just think about how modern cold email platforms warm up fresh domains to build sender reputation before you can scale your outreach. You need to do the exact same thing on Reddit. So this means building up your karma, which is Reddit's internal reputation score, by providing genuine value and engaging naturally with other content before you think about plugging your stuff. And just being honest with you,",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 175.95199584960938,
+          "end": 178.16000366210938,
+          "text": " companies that are truly winning on reddit",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 178.16000366210938,
+          "end": 206.41600036621097,
+          "text": " are not just using one account they're building a portfolio of accounts similar to how cold emailers use secondary domains to scale their volume horizontally this allows them to increase their share of voice across multiple accounts rather than only relying on a single account which gives them an advantage the key thing to understand about karma is that fresh accounts with no engagement history get flagged and banned at much higher rates so you need to actually invest time in building that engagement history by commenting on posts",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 206.41600036621097,
+          "end": 232.91200256347656,
+          "text": " upvoting other content and participating in discussions. This is really the foundation that makes everything else work downstream. Now once your accounts are set up and warmed up you need to find where your ideal customers are hanging out and also what threads are being cited by LLMs like ChatGPT. This is about building what I call your subreddit map. So each subreddit is essentially a micro community on reddit that has its own rules, culture and moderation policies. Now",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 232.91200256347656,
+          "end": 262.1919860839844,
+          "text": " Some of these subreddits allow promotional content, but honestly, most don't. And some require very specific post formats. Otherwise, your post is going to be automatically removed. So your job is to identify and map these communities where your ICP is actively discussing problems you solve. Now, there are a few ways to do this effectively. First, put your core category prompts into chat GPT or perplexity and look at which Reddit threads are being cited as sources. This is going to tell you the subreddits that the AI already trusts for your topic.",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 262.1919860839844,
+          "end": 291.760009765625,
+          "text": " Reddit is being cited in AI Answers. That's where you want to be visible. Second, old school method. You can just search your money keywords in Google and filter your results to forums or use a search operator to filter to the Reddit domain and include your target keywords. This is going to show you the threads which are already ranking for high intent queries in your category. And third, we've built a free Reddit threads finder tool which I'll link below that test prompts related to your category in LLMs and identifies the Reddit threads that are actually being cited",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 291.760009765625,
+          "end": 305.0880126953125,
+          "text": " all prioritized by relevancy. So your goal here is to build a list of primary subreddits where your ICP is highly active and secondary subreddits that are adjacent to your niche. This map is where you will try to build authority and become visible to both",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 305.0880126953125,
+          "end": 334.3840026855469,
+          "text": " humans who are searching Google and LLMs that are crawling Reddit. Now we've got our accounts set up and you know where to post. The final piece is what you actually say. This is where most marketers get it wrong. Your content strategy on Reddit needs to follow a simple rule. 90% education, 10% promotion. You must lead with value. Reddit users can smell marketing from a mile away and they will destroy you in the comments if you come across as promotional or your content will just get banned. Now there are a few posts that have worked exceptionally well for our clients. So we have guides which is",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 334.3840026855469,
+          "end": 356.8800048828125,
+          "text": " here's how to do x these work for solution aware audiences who are actively searching for how to content we then have problem solution posts so this is like i'm struggling with x and here's what i tried this is going to resonate with problem aware audiences who are earlier in the journey but will allow you to cast a wider net we then have listicles these are one of my favorites this is the best tools for x",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 356.8800048828125,
+          "end": 386.2560119628906,
+          "text": " so this targets solution and product aware audiences who are actively comparing solutions and so this content type typically targets those with commercial intent and then finally we have ask me anything posts these can be done in various different angles for example i achieved this result ask me anything or i have done this thing ask me anything this is a powerful way to build authority and really spark discussion in these subreddits that you care about now the key here is the art of subtle promotion you provide immense value",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 386.2560119628906,
+          "end": 415.4719848632813,
+          "text": " And then you use a subtle bridge to your solution, which is going to be your product or service. Try to avoid dropping links if you can, because they trigger auto moderation rules and your post will likely get removed. The goal here is to create answer ready content that is genuinely helpful on its own. And the reader doesn't need to click anywhere. Now, this is more of an advanced concept, but it's critical for AI visibility. Think about your competitors, your integration partners, your category phases, your money terms, product features and your USPs.",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 415.4719848632813,
+          "end": 444.68798828125,
+          "text": " participate in discussions about these entities you're essentially helping these LLMs build a knowledge graph that connects your brand to them so they know when to recommend you. To give you a very specific example if you're a project management tool then you should be in threads comparing Asana and Monday providing valuable insights about the nuanced differences and this is going to help AI understand your relationship to these companies as well as when and why your solution is relevant which is going to make it more likely to cite you in future.",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 444.68798828125,
+          "end": 473.9039916992187,
+          "text": " Now, before we wrap up here, I want to address the single biggest mistake I see companies make on Reddit. They think Reddit is only for lead generation. They measure success by how many clicks or how many DMs they've received. And when those numbers are small, they just give up. But here's the thing. The real value of Reddit is being present in the places that large language models or LLMs trust. AI models operate on a principle of cross-source cooperation. So really what they're doing is they're verifying information by",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 473.9039916992187,
+          "end": 503.1199951171875,
+          "text": " check-in if those same facts appear across independent trusted sources and your website is really only one of those sources what's said about you on places like reddit g2 and other industry forums carries immense weight in fact i'd probably argue that your website represents maybe 20 of your ai search opportunity the other 80 is going to be your off-page presence and reddit is one of the most important pieces of that so when you're doing this and you're building your reddit presence you're not just trying to reach",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 503.1199951171875,
+          "end": 532.3359985351562,
+          "text": " redditors you're building the trusted third-party cooperation signals that are going to get you cited and ultimately recommended by these ai models you're increasing your share of voice in the places that matter most and that's the shift you need to stop thinking about reddit as just another traffic channel and start thinking about it as a critical piece in your ai visibility strategy that is going to influence these llms i probably don't have to tell you this but things are changing very quickly and if you want to make sure you're not wasting time on things that probably don't work anymore",
+          "speaker": null,
+          "words": null
+        },
+        {
+          "start": 532.3359985351562,
+          "end": 542.3569946289062,
+          "text": " then click here to watch the next video where I break down all the ways that SEO is going to change this year so you do know where to spend your time and money on and you know exactly what to avoid as well. I'll see you over there.",
+          "speaker": null,
+          "words": null
+        }
+      ]
+    },
+    "error_message": null
+  },
+  "message": "Success",
+  "timestamp": "2026-02-01T19:32:35.049264Z"
+}
