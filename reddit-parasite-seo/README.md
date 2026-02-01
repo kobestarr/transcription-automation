@@ -14,11 +14,42 @@ Using Reddit's high domain authority (DA 91) to rank content in search engines. 
 
 ## Key Concepts from Research
 
-### 1. Subreddit Setup
-- Create subreddit named after your niche/product
-- Example: "AI SEO Insider" for AI/SEO services
-- Name should be memorable and related to what you sell
+### 1. Subreddit Setup (CRITICAL STEP)
+
+**Why it matters:**
+- Your subreddit becomes your own micro-site on Reddit's DA 91 domain
+- Name should be memorable and directly related to your offer
 - Quick setup (1 minute)
+
+**Step-by-Step Creation:**
+
+1. **Go to Reddit** → Create Community
+2. **Choose subreddit name** - Examples:
+   - Selling AI services? → "AI SEO Insider", "AI Profit Boardroom"
+   - Selling a course? → "[Course Name] Community"
+   - General business? → "Business Growth Systems"
+   
+3. **Naming tips from research:**
+   - Ask ChatGPT: "Give me 5 subreddit names for [your offer]"
+   - Make it brandable and searchable
+   - Avoid generic names that are taken
+   
+4. **Add details:**
+   - Banner image
+   - Topics/categories
+   - Description (what the community is about)
+
+5. **Example from research:**
+   - Community: "AI SEO Insider"
+   - Purpose: AI + SEO services
+   - Result: 25K monthly visitors, 2,100 members, 300+ posts
+
+**Best practices:**
+- Name around what you SELL, not just your interest
+- Make it searchable but unique
+- Check availability before committing
+
+---
 
 ### 2. Content Strategy
 - Repurpose existing content (YouTube, blogs, tweets)
