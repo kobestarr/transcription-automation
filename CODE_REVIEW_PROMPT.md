@@ -1,22 +1,40 @@
-# Code Review Prompt
+# Code Review Task (Codex)
 
-Review ALL content in the repository (not just latest commit):
-1. **Security** - API keys, credentials, file permissions
-2. **Quality** - Code structure, error handling, DRY principle
-3. **Python conventions** - PEP8, naming, comments, docs
-4. **Completeness** - Missing files, broken imports, edge cases
-5. **Best practices** - Modularity, reusability, testing
+Perform comprehensive code review. Be thorough but concise.
 
-Output format:
-- **Security Issues**: (none/high/medium/low)
-- **Code Quality Score**: /10
-- **Critical Fixes Needed**: List
-- **Improvement Suggestions**: List
-- **Files Reviewed**: List all files
+## Check For:
 
-Focus areas:
-- `scripts/transcribe.py` - Main script
-- `README.md` - Documentation clarity
-- Any credentials or config files
+**Logging** - No console.log statements, uses proper logger with context
+**Error Handling** - Try-catch for async, centralized handlers, helpful messages
+**TypeScript** - No `any` types, proper interfaces, no @ts-ignore
+**Production Readiness** - No debug statements, no TODOs, no hardcoded secrets
+**React/Hooks** - Effects have cleanup, dependencies complete, no infinite loops
+**Performance** - No unnecessary re-renders, expensive calcs memoized
+**Security** - Auth checked, inputs validated, RLS policies in place
+**Architecture** - Follows existing patterns, code in correct directory
+**Python Specifics** - PEP8 compliance, docstrings, type hints, no magic numbers
 
-**Review entire repo contents, not just diffs.**
+## Output Format
+
+### ✅ Looks Good
+- [Item 1]
+- [Item 2]
+
+### ⚠️ Issues Found
+- **[Severity]** [File:line] - [Issue description]
+  - Fix: [Suggested fix]
+
+### 📊 Summary
+- Files reviewed: X
+- Critical issues: X
+- Warnings: X
+
+## Severity Levels
+- **CRITICAL** - Security, data loss, crashes
+- **HIGH** - Bugs, performance issues, bad UX
+- **MEDIUM** - Code quality, maintainability
+- **LOW** - Style, minor improvements
+
+## IMPORTANT
+Output findings in a format suitable for peer review by another model.
+Do not fix issues - only identify them.
