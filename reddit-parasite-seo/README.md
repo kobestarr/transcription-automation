@@ -128,12 +128,56 @@ Using Reddit's high domain authority (DA 91) to rank content in search engines. 
 - Lead generation: 1,300+ leads/week
 - YouTube AI avatar videos: doubled views (48K→90K/day)
 
+### NEW STATS (Video #2 - DQiXBXVbbRU)
+- **82% of Google searches** have Reddit on page one
+- **Google-Reddit deal:** Reddit saw 270% increase in ranking keywords
+- **110 million new keywords** added to Reddit's arsenal
+- **Example result:** 70,000 views/month, 3,800 members, just 3 months old
+- **Ranking speed:** Keywords rank in 24 hours (not months)
+- **AI search engines:** Content ranks in Perplexity within hours
+- **Traffic compounding:** Content keeps ranking months later
+
+---
+
+## The Goldie Reddit Parasite Engine Framework
+
+**From Video #2 - Key Framework:**
+
+### Why NOW is the time:
+1. Google signed deal with Reddit (2024)
+2. ChatGPT also leverages Reddit content
+3. Reddit DA 91 (higher than Fortune 500 sites)
+4. You're borrowing Reddit's authority
+
+### 4-Step Process (Refined):
+1. **Create subreddit** (60 seconds) - Name around your offer
+2. **Content engine** - Use Claude to repurpose YouTube/transcripts
+3. **Quality control** - Review before publishing
+4. **Post & compound** - Views increase over time
+
+### Old vs New SEO:
+
+| Old SEO | Reddit Parasite SEO |
+|---------|---------------------|
+| Build website (12 months) | Create subreddit (60 seconds) |
+| Wait for Google trust | Borrow Reddit's DA 91 |
+| Write 100 posts manually | Claude writes all content |
+| Build backlinks one by one | Reddit already has authority |
+| Pay for ads | Zero ad spend |
+| Hire writers | AI does the work |
+| 6-12 months for results | Rank in 24 hours |
+
+### Limiting Beliefs to Drop:
+- "I need a good writer" → "Claude is my writing team, I'm the editor"
+- "SEO takes too long" → "Rank in 24 hours by borrowing authority"
+- "Reddit is for nerds" → "108M daily users, 2B monthly visits"
+
 ---
 
 ## Related Videos
 
-- [Claude + Reddit AI Automation](https://youtu.be/jMEhA3vhuuQ) - Base research
-- Add new videos here as you research
+- [Claude + Reddit AI Automation](https://youtu.be/jMEhA3vhuuQ) - Base research (4-step process, Make.com, quality control)
+- [Parasite AI SEO with Reddit is INSANE!](https://youtu.be/DQiXBXVbbRU) - Goldie framework, 82% Google stat, 24-hour rankings
 
 ---
 
