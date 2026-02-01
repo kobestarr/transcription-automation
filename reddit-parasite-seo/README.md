@@ -176,8 +176,18 @@ Using Reddit's high domain authority (DA 91) to rank content in search engines. 
 
 ## Related Videos
 
+### Reddit Videos
 - [Claude + Reddit AI Automation](https://youtu.be/jMEhA3vhuuQ) - Base research (4-step process, Make.com, quality control)
 - [Parasite AI SEO with Reddit is INSANE!](https://youtu.be/DQiXBXVbbRU) - Goldie framework, 82% Google stat, 24-hour rankings
+- ["SEO Jesus" on Reddit for Google SEO & ChatGPT AEO](https://youtu.be/KDDupIH4DCA) - Advanced Reddit SEO strategies
+- [Reddit Marketing Strategy - AI Powered SEO](https://youtu.be/B2k-SH4DZgs) - AI-powered Reddit marketing
+- [Reddit Parasite SEO: The 2 Mistakes Everybody Makes](https://youtu.be/yZENIiG4MBc) - Common pitfalls to avoid
+- [Reddit Parasite SEO: How I Hijack Threads That Rank #1 on Google](https://youtu.be/clSD0qdi5rM) - Advanced hijacking techniques
+
+### Digg Videos (Parasite SEO - Related Platform)
+- [Digg Just Relaunched - And It's the Wildest Parasite SEO Opportunity](https://youtu.be/xf9QYuAKFHo) - Digg relaunch opportunity
+- [How to use Digg - the new Reddit???](https://youtu.be/-Gmax8FsYpA) - Digg basics and usage
+- [Copy This Reddit Strategy, It'll Blow Up Your Business](https://youtu.be/4-O4_nDh6hI) - Strategy that works on both platforms
 
 ---
 
@@ -187,3 +197,26 @@ Using Reddit's high domain authority (DA 91) to rank content in search engines. 
 2. Create quality control checklist
 3. Document headline templates
 4. Build content repurposing pipeline
+5. **Research Digg integration** - Digg just relaunched as Reddit alternative
+
+---
+
+## Digg as Parasite SEO Platform
+
+Digg has relaunched and presents a similar opportunity to Reddit for Parasite SEO.
+
+### Why Digg?
+- New platform with growing authority
+- Similar community-based content model
+- Less competition than Reddit
+- Free to use and post
+
+### Strategy
+- Apply same Reddit strategies to Digg
+- Create Digg-specific content
+- Cross-post between platforms
+- Diversify parasite SEO across platforms
+
+### Digg Videos to Research
+- [Digg Just Relaunched](https://youtu.be/xf9QYuAKFHo)
+- [How to use Digg](https://youtu.be/-Gmax8FsYpA)
