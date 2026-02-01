@@ -1,14 +1,14 @@
 # Reddit-Researcher
 
-Find validated business ideas, clients, and ICPs from Reddit communities.
+Find validated business ideas and ICPs from Reddit communities.
 
 ## Use Cases
 
 ### 1. ICP Research
 Find potential customers discussing problems you solve
-- PR agencies, publicists, talent agencies
 - E-commerce brands
 - Professional services
+- Tech startups
 
 ### 2. Lead Generation
 Identify hot prospects on Reddit
@@ -29,18 +29,6 @@ See what tools/services competitors use
 2. **Analyze problems & solutions** (AI pattern analysis)
 3. **Find creators/influencers** (YouTube search)
 4. **Build MVP** (wireframe based on insights)
-
-### Target ICPs from Video Research
-
-**PR Agencies, Publicists, Talent Agencies**
-- Source: Your Twiggy website project
-- Pitch: "I built Twiggy's website, I can do the same for your clients"
-- Target forums: r/PR, r/marketing, r/celebrities
-
-**Outreach Script Ideas:**
-- Reference Twiggy as case study
-- Offer website audit for their clients
-- Bundle with social media management
 
 ## Videos
 
