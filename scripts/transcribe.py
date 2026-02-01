@@ -24,14 +24,17 @@ def load_credentials():
     return creds.get('api_key')
 
 
-def start_transcription(api_key, youtube_url):
+def start_transcription(api_key, youtube_url, language_code="en"):
     """Submit YouTube URL for transcription"""
     endpoint = f"{BASE_URL}/transcriptions/youtube"
     headers = {
-        "Authorization": f"Bearer {api_key}",
+        "X-API-Key": api_key,
         "Content-Type": "application/json"
     }
-    data = {"url": youtube_url}
+    data = {
+        "url": youtube_url,
+        "language_code": language_code
+    }
     
     response = requests.post(endpoint, json=data, headers=headers)
     response.raise_for_status()
@@ -41,7 +44,7 @@ def start_transcription(api_key, youtube_url):
 def check_status(api_key, transcription_id):
     """Check transcription status"""
     endpoint = f"{BASE_URL}/transcriptions/{transcription_id}/status"
-    headers = {"Authorization": f"Bearer {api_key}"}
+    headers = {"X-API-Key": api_key}
     
     response = requests.get(endpoint, headers=headers)
     response.raise_for_status()
@@ -51,7 +54,7 @@ def check_status(api_key, transcription_id):
 def get_transcription(api_key, transcription_id):
     """Get completed transcription"""
     endpoint = f"{BASE_URL}/transcriptions/{transcription_id}"
-    headers = {"Authorization": f"Bearer {api_key}"}
+    headers = {"X-API-Key": api_key}
     
     response = requests.get(endpoint, headers=headers)
     response.raise_for_status()
@@ -68,9 +71,9 @@ def save_transcript(output_dir, youtube_url, data):
         f.write(youtube_url)
     
     # Save full transcript
-    if 'text' in data:
+    if 'result' in data and 'text' in data['result']:
         with open(output_dir / "transcript.txt", 'w') as f:
-            f.write(data['text'])
+            f.write(data['result']['text'])
     
     # Save raw JSON
     with open(output_dir / "raw.json", 'w') as f:
@@ -88,15 +91,9 @@ def parse_video_id(url):
     return None
 
 
-def transcribe(youtube_url, output_base, wait=True, episode_title=None):
+def transcribe(youtube_url, output_base, wait=True, episode_title=None, language_code="en"):
     """
     Transcribe a YouTube video using UniScribe.
-    
-    Args:
-        youtube_url: YouTube video URL
-        output_base: Base directory for output
-        wait: Wait for transcription to complete
-        episode_title: Optional episode title (auto-generated if not provided)
     """
     api_key = load_credentials()
     video_id = parse_video_id(youtube_url)
@@ -104,33 +101,31 @@ def transcribe(youtube_url, output_base, wait=True, episode_title=None):
     if not episode_title:
         episode_title = f"video_{video_id}"
     
-    # Start transcription
     print(f"📤 Submitting: {youtube_url}")
-    result = start_transcription(api_key, youtube_url)
-    transcription_id = result.get('id')
+    result = start_transcription(api_key, youtube_url, language_code)
+    transcription_id = result.get('data', {}).get('id') or result.get('id')
     
     print(f"✅ Transcription started: ID {transcription_id}")
     
     if not wait:
         print(f"📋 Transcription ID: {transcription_id}")
-        print(f"   Check status: {BASE_URL}/transcriptions/{transcription_id}/status")
         return transcription_id
     
     # Wait for completion
     print("⏳ Waiting for transcription...")
     while True:
         status = check_status(api_key, transcription_id)
-        state = status.get('status', 'unknown')
+        state = status.get('data', {}).get('status', 'unknown')
         print(f"   Status: {state}")
         
         if state == 'completed':
             break
         elif state == 'failed':
-            raise Exception(f"Transcription failed: {status}")
+            error_msg = status.get('data', {}).get('error_message', 'Unknown error')
+            raise Exception(f"Transcription failed: {error_msg}")
         
-        time.sleep(5)
+        time.sleep(10)
     
-    # Get and save
     print("📥 Fetching transcription...")
     data = get_transcription(api_key, transcription_id)
     
@@ -146,8 +141,9 @@ if __name__ == "__main__":
     parser.add_argument("--url", required=True, help="YouTube URL")
     parser.add_argument("--output", default="./output", help="Output base directory")
     parser.add_argument("--title", help="Episode/title for folder name")
+    parser.add_argument("--lang", default="en", help="Language code (default: en)")
     parser.add_argument("--no-wait", action="store_true", help="Don't wait for completion")
     
     args = parser.parse_args()
     
-    transcribe(args.url, args.output, wait=not args.no_wait, episode_title=args.title)
+    transcribe(args.url, args.output, wait=not args.no_wait, episode_title=args.title, language_code=args.lang)
